@@ -14,14 +14,11 @@
 在 Codex 中输入：
 
 请使用 skill-installer，从这个 GitHub 地址安装知识学习 Skill：
-https://github.com/你的用户名/knowledge-learning-skill/tree/main/skills/zhi-shi-xue-xi
-
+https://github.com/B1UERY/knowledge-learning-skill
 ## 使用示例
 
 - 用知识学习，给我讲讲 Docker，我是初学者。
 - 用知识学习，带我看懂这个项目的整体逻辑。
 - 用知识学习，解释这个函数的执行过程，复杂关系请配图。
 
-## 来源与致谢
 
-说明整合的技能、参考项目，以及你做出的调整。
