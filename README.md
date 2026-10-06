@@ -17,7 +17,6 @@
 https://github.com/B1UERY/knowledge-learning-skill
 ## 使用示例
 
-- 用知识学习，给我讲讲 Docker，我是初学者。
 - 用知识学习，带我看懂这个项目的整体逻辑。
 - 用知识学习，解释这个函数的执行过程，复杂关系请配图。
 
